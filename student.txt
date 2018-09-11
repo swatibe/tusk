@@ -2,6 +2,10 @@ Id
 Name
 Class
 Section
+
+Place
+age
+
   
   
   final
